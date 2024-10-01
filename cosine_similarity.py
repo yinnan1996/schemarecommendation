@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 import math
-import json
 
 def similarity_list(list1, list2):
     """

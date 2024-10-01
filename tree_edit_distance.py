@@ -35,7 +35,3 @@ if __name__ == '__main__':
     """
     print(similarity(json.loads(s1), json.loads(s2)))
 
-
-
-
-
