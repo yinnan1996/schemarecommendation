@@ -1,0 +1,127 @@
+{
+    "_ord": [
+        "Material category",
+        "Material information",
+        "Structure"
+    ],
+    "Structure": {
+        "r": false,
+        "t": 9,
+        "misc": {
+            "_ord": [
+                "Crystal structure",
+                "Phase transition"
+            ],
+            "Phase transition": {
+                "r": false,
+                "t": 9,
+                "misc": {
+                    "a-T": {
+                        "r": false,
+                        "t": 8,
+                        "misc": {
+                            "A": {
+                                "r": false,
+                                "t": 2,
+                                "misc": {
+                                    "unit": ""
+                                }
+                            },
+                            "T": {
+                                "r": false,
+                                "t": 2,
+                                "misc": {
+                                    "unit": "K"
+                                }
+                            },
+                            "_head": [
+                                "A",
+                                "T"
+                            ]
+                        }
+                    },
+                    "_ord": [
+                        "a-T"
+                    ]
+                }
+            },
+            "Crystal structure": {
+                "r": false,
+                "t": 9,
+                "misc": {
+                    "_ord": [
+                        "Structure information"
+                    ],
+                    "Structure information": {
+                        "r": false,
+                        "t": 8,
+                        "misc": {
+                            "_head": [
+                                "Temperature",
+                                "Pressure",
+                                "CIF file"
+                            ],
+                            "CIF file": {
+                                "r": false,
+                                "t": 5,
+                                "misc": {
+                                    "multi": false
+                                }
+                            },
+                            "Pressure": {
+                                "r": false,
+                                "t": 2,
+                                "misc": {
+                                    "unit": "MPa"
+                                }
+                            },
+                            "Temperature": {
+                                "r": false,
+                                "t": 2,
+                                "misc": {
+                                    "unit": "K"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Material category": {
+        "r": True,
+        "t": 1,
+        "misc": {}
+    },
+    "Material information": {
+        "r": false,
+        "t": 9,
+        "misc": {
+            "_ord": [
+                "Chemical formula",
+                "Macroscopic morphology",
+                "Preparation method"
+            ],
+            "Chemical formula": {
+                "r": false,
+                "t": 1,
+                "misc": {}
+            },
+            "Preparation method": {
+                "r": false,
+                "t": 1,
+                "misc": {}
+            },
+            "Macroscopic morphology": {
+                "r": false,
+                "t": 6,
+                "misc": {
+                    "grp": [],
+                    "opt": [
+                        "Polycrystalline powder"
+                    ]
+                }
+            }
+        }
+    }
+}
